@@ -11,7 +11,6 @@ Key Features:
     Distance Information: Displays total distance, distance covered, and distance left.
     Unit Switching: Allows users to toggle between kilometers and miles.
     Column vs. LazyColumn: Demonstrates the difference in performance and behavior between Column and LazyColumn for displaying lists.
-    Reset Functionality: Resets the progress to the starting point.
 
 Code Structure:
 
